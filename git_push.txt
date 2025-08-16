@@ -1,0 +1,19 @@
+1) .gitignore
+	
+	node_modules\
+ 	.DS_Store
+	.log
+	.dist\
+	.build\
+	.env
+
+2) git init
+   git add .
+   git commit -m "initial commit"
+   
+
+3) git remote add origin "link.git"
+
+4)git branch -M main
+  git push -u origin main
+	
